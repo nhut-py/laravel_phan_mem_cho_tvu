@@ -4,4 +4,5 @@
 :+1: Project là một dự án thực tế và có thể giúp các bạn trong quả trình học tập của mình.<br>
 :+1: Website của project <a href="https://sukientvu.online/event/public/home">Tại đây!</a>.<br>
   - Phía dưới là hình ảnh minh hoạ cho project:
+**    1. Trang chủ của project**
     ![feature-image](https://github.com/nhut-py/laravel_phan_mem_cho_tvu/blob/main/img/add_sk.jpg).
