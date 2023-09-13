@@ -1,5 +1,5 @@
 # **XIN CHÀO BẠN!**<br>
-  - Đây là project được làm để phục vụ cho việc quản lý công viên, đăng kí các hoạt động sự kiện, quản lý cái bài viết và báo cáo công việc hàng tháng được làm riêng cho phòng Truyền thông và Quảng bá cộng đồng của trường đại học Trà Vinh.<br>
+  - Đây là project được xây dựng bằng PHP Laravel, với nhiệu vụ để phục vụ cho việc quản lý công viên, đăng kí các hoạt động sự kiện, quản lý cái bài viết và báo cáo công việc hàng tháng được làm riêng cho phòng Truyền thông và Quảng bá cộng đồng của trường đại học Trà Vinh.<br>
   - Mình muốn chia sẽ dự án để giúp đỡ đến các bạn trong quá trình học tập, làm đồ án của bản thân, phía dưới mình đã chỉnh sửa phần email và cơ sở dữ liệu nên không có liên quan đến phòng CCE của trường Đại học Trà Vinh.
   - # Liên hệ với mình để được hỗ trợ mật khẩu mở file raz và cơ sở dử liệu hoàn chỉnh zalo="0394915710", gặp Nhựt.<hr>
 :+1: Project là một dự án thực tế và có thể giúp các bạn trong quả trình học tập của mình.<br>
